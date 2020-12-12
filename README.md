@@ -1,2 +1,2 @@
-# KETE
+# CodeSandbox
 Created with CodeSandbox
